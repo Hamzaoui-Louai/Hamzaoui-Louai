@@ -4,7 +4,7 @@
 
 ### Web & Game Developer
 
-<img src="./assets/jester.gif" alt="Louai GIF" width="220" />
+<img src="./purple guy.gif" alt="Louai GIF" width="220" />
 
 <br/>
 
