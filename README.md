@@ -53,15 +53,15 @@ Currently studying Computer Science and constantly picking up new technologies a
 
 <div align="center">
 
-<a href="mailto:louai.hamzaoui@gmail.com">
+<a href="mailto:l_hamzaoui@estin.dz">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
 &nbsp;&nbsp;
-<a href="https://your-portfolio-link.com">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/louai-abdelouadoud-hamzaoui-281792349/">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
