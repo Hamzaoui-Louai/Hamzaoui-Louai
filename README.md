@@ -1,6 +1,6 @@
 <div align="center">
 
-# Louai Hamzaoui
+# Louai A. Hamzaoui
 
 ### Web & Game Developer
 
